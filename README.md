@@ -37,7 +37,7 @@
   <p align="center">
     A customizable piloting HUD skin for Dual Universe!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Watch a Demo</a>
+    <a href="https://twitch.tv/codeinfused">Watch a Demo</a>
     ·
     <a href="https://github.com/codeinfused/Albatross-HUD-Community/issues">Report Bug</a>
     ·
@@ -134,9 +134,9 @@ _If you add new links (like radars), you will need to re-activate the HUD again 
 <!-- CONTACT -->
 ## Contact
 
-_While I do love Dual Universe and its community, I also have very little free time typically. I will try to answer questions via Discord, or if you catch me online on Twitch. But keep in mind this is a free resource, and I've spent a good chunk of time on it, so please be constructive and kind :)
+_While I do love Dual Universe and its community, I also have very little free time typically. I will try to answer questions via Discord, or if you catch me online on Twitch. But keep in mind this is a free resource, and I've spent a good chunk of time on it, so please be constructive and kind :)_
 
-Discord: [Albatross HUD on DU-OSI]([https://github.com/your_username/repo_name](https://discord.com/channels/760240626942869546/760471151876112384))
+Discord: [Albatross HUD on DU-OSI](https://discord.com/channels/760240626942869546/760471151876112384)
 
 Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused)
 
