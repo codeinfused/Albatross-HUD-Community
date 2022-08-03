@@ -131,6 +131,47 @@ _If you add new links (like radars), you will need to re-activate the HUD again 
 
 
 
+<!-- USAGE -->
+## Usage
+
+### Learning The Keys
+
+Albatross HUD mostly follows the same default key bindings. However, I still recommend taking some time and looking at the button controls of the HUD before you fly. For example, holding `ALT` with `CTRL` (brakes) will lock the brakes, so that you can release both keys and still have the brakes active. Pressing `G` will either raise you to hover height, or lower you back down to the ground.
+
+### Changing Default Settings
+
+This HUD has several settings you can modify. Some are customizations like the HUD color, opacity, scale, and FPS rate. Others are key flight mechanics such as the Talent upgrade levels your ship has. If you're not familiar with talents yet, Then you can assume 0 for these (the default).
+
+1. Right-click on your flight unit (seat)
+2. Select "Advanced"
+3. Select "Edit Lua Parameters"
+4. Hover over the label to see a description of each option
+
+### Recommended HUD Colors
+
+Using the steps above, you can change the base color palette of the HUD. I've provided some suggestions below that look best with the HUD's format:
+
+| Name              | Color Code | 
+| ----------------- | ---------- |
+| Default Albatross | '#4992CF'  |
+| Dark Mode         | '#555555'  |
+| Light Mode        | '#e9e9e9'  | 
+| Tan               | '#736f72'  |
+| Blue Steel        | '#546a7b'  |
+| Browncoat         | '#bc6c25'  |
+| Military          | '#656d4a'  |
+| Pink              | '#b5838d'  |
+| Mauve             | '#4a4e69'  |
+| Plum              | '#706677'  |
+| Royal             | '#8452B7'  |
+| Nature            | '#6a994e'  |
+| Hacker            | '#006400'  |
+| Vampire           | '#590d22'  |
+| Rose Gold         | '#846267'  |
+| Sandstone         | '#ec7d10'  |
+
+
+
 <!-- CONTACT -->
 ## Contact
 
