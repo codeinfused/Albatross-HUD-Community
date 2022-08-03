@@ -1,2 +1,182 @@
-# Albatross-HUD-Community
-Community Edition of our piloting HUD for Dual Universe, a visual step up over the default without being too complex to use.
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Twitch][twitch-shield]][twitch-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/codeinfused/Albatross-HUD-Community">
+    <img src="images/albatross.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Albatross HUD Community Edition</h3>
+
+  <p align="center">
+    A customizable piloting HUD skin for Dual Universe!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">Watch a Demo</a>
+    ·
+    <a href="https://github.com/codeinfused/Albatross-HUD-Community/issues">Report Bug</a>
+    ·
+    <a href="https://twitch.tv/codeinfused">Twitch Schedules</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-albatross-hud">About the HUD</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#file-install">File Install</a></li>
+        <li><a href="#linking-elements">Linking Elements</a></li>
+        <li><a href="#activating-the-hud">Activating the HUD</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#learning-the-keys">Learning the Keys</a></li>
+        <li><a href="#changing-default-settings">Changing Default Settings</a></li>
+        <li><a href="#recommended-hud-colors">Recommended HUD Colors</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT ALBATROSS HUD -->
+## About Albatross HUD
+[![HUD Screenshot][product-screenshot]]
+
+This piloting HUD for Dual Universe is designed for players of all experience levels. It's a visual improvement over the default, adding new features and flight controls to assist both new players and veterans. Our goal with this release is make sure everyone has access to an easy-to-use HUD and make their Dual Universe experience a little better.
+
+_Some Key Features:_
+* Visible key mappings for controls, which reflect your actual key maps
+* Condensed improved visual with all the most relevant flight data in one spot
+* Automatic planet/moon detection with data on braking time needed and atmo entrance
+* Groupable fuel gauges, assign custom categories to your fuel types
+* Navball display in atmo for pitch and roll
+* Customizable colors and opacity
+
+_What This HUD Isn't:_
+* Not an autopilot; I recommend SagaHUD or ArchHUD for autopilot controls
+* Not advanced; this hud is designed with new players in mind to help support DU
+* Not pvp; while you can link weapons, the HUD does not support them natively
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+_This HUD is delivered by "autoconf", a feature supported by Dual Universe for custom scripts. You will need to download a file as instructed below to add this HUD to your game's list._
+
+### File Install
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+  
+### Linking Elements
+
+For the most part, you won't need link anything! Almost all needs become linked automatically, with the exception of optional radars. You can link multiple radars to your seat before activating the HUD. If you use "Rename Element" on each radar, the HUD will bring in their custom names.
+
+### Activating the HUD
+
+_If you add new links (like radars), you will need to re-activate the HUD again with these steps also._
+
+1. Make sure you've installed the file from above ^
+2. Right-click on your hoverseat, command seat, or whatever flight unit
+3. Select "Advanced"
+4. Select "Run Custom Autoconfigure"
+5. Select Albatross HUD from the list
+6. That's it! Hop in the seat and enjoy
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+_While I do love Dual Universe and its community, I also have very little free time typically. I will try to answer questions via Discord, or if you catch me online on Twitch. But keep in mind this is a free resource, and I've spent a good chunk of time on it, so please be constructive and kind :)
+
+Discord: [Albatross HUD on DU-OSI]([https://github.com/your_username/repo_name](https://discord.com/channels/760240626942869546/760471151876112384))
+
+Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions will be welcome in a future version of the HUD with more advanced features. This community version is intended to stay simple and support a new playerbase coming into the game for the first time, and for players who enjoy a condensed but rich HUD experience. New features will only be considered for this version if they stay in line with that concept.
+
+Use the Discord above if you'd like to give feedback or suggest a simple feature addition.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Albatross-HUD-Community.svg?style=plastic
+[contributors-url]: https://github.com/codeinfused/Albatross-HUD-Community/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codeinfused/Albatross-HUD-Community.svg?style=plastic
+[forks-url]: https://github.com/codeinfused/Albatross-HUD-Community/network/members
+[stars-shield]: https://img.shields.io/github/stars/codeinfused/Albatross-HUD-Community.svg?style=plastic
+[stars-url]: https://github.com/codeinfused/Albatross-HUD-Community/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codeinfused/Albatross-HUD-Community.svg?style=plastic
+[issues-url]: https://github.com/codeinfused/Albatross-HUD-Community/issues
+[license-shield]: https://img.shields.io/github/license/codeinfused/Albatross-HUD-Community.svg?style=plastic
+[license-url]: https://github.com/codeinfused/Albatross-HUD-Community/blob/master/LICENSE.txt
+[twitch-shield]: https://img.shields.io/badge/twitch-live-red?logo=twitch&style=social
+[twitch-url]: https://twitch.tv/codeinfused
+[product-screenshot]: images/screenshot1.png
