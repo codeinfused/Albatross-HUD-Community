@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/codeinfused/Albatross-HUD-Community">
-    <img src="images/albatross-logo-wide.png" alt="Logo" width="80" height="80">
+    <img src="images/albatross-logo-wide.png" alt="Logo" width="40%">
   </a>
 
   <h3 align="center">Albatross HUD Community Edition</h3>
@@ -77,7 +77,7 @@
 
 <!-- ABOUT ALBATROSS HUD -->
 ## About Albatross HUD
-[![HUD Screenshot][product-screenshot]]
+![HUD Screenshot][product-screenshot]
 
 This piloting HUD for Dual Universe is designed for players of all experience levels. It's a visual improvement over the default, adding new features and flight controls to assist both new players and veterans. Our goal with this release is make sure everyone has access to an easy-to-use HUD and make their Dual Universe experience a little better.
 
