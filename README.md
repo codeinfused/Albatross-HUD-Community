@@ -105,11 +105,11 @@ _This HUD is delivered by "autoconf", a feature supported by Dual Universe for c
 
 ### File Install
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Download the autoconf file from this repo, [ais_albatross_hud][download-url]
+
+Then move the file into the game's autoconf folder:
+
+`C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom`
   
 ### Linking Elements
 
@@ -174,9 +174,11 @@ Using the steps above, you can change the base color palette of the HUD. I've pr
 The HUD will automatically group your fuel tanks into single displays based on fuel type.. Atmo, Space, or Rocket. However, you can customize these groupings. For example, if you have some fuel tanks that are dedicated to just hover engines or vertical boosters, then you may want to see that in it's own grouping.
 
 For this, you'll only need to rename the tanks you want to specifically group together. To rename, you'll first need to enter Build Mode `(B)`, and right-click to Rename. Most fuel tanks have a default that looks like:
+
 `Space Fuel Tank s [52]`
 
 The " s " stands for small, and is needed by the HUD in the current version. But here's an example of what we could rename to:
+
 `Space Tank s (vboost) [52]`
 
 By adding parethesis and a category, all fuel tanks with a matching parenthesis will be grouped, and you can create as many groupings as you like.
@@ -220,6 +222,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/blob/master/ais_albatross_hud_2_0_5.conf
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Albatross-HUD-Community.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Albatross-HUD-Community/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Albatross-HUD-Community.svg?style=plastic
