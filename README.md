@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/codeinfused/Albatross-HUD-Community">
-    <img src="images/albatross.png" alt="Logo" width="80" height="80">
+    <img src="images/albatross-logo-wide.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Albatross HUD Community Edition</h3>
@@ -64,6 +64,7 @@
         <li><a href="#learning-the-keys">Learning the Keys</a></li>
         <li><a href="#changing-default-settings">Changing Default Settings</a></li>
         <li><a href="#recommended-hud-colors">Recommended HUD Colors</a></li>
+        <li><a href="#grouping-fuel-types">Grouping Fuel Types</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -168,6 +169,18 @@ Using the steps above, you can change the base color palette of the HUD. I've pr
 | Rose Gold         | '#846267'  |
 | Sandstone         | '#ec7d10'  |
 
+### Grouping Fuel Types
+
+The HUD will automatically group your fuel tanks into single displays based on fuel type.. Atmo, Space, or Rocket. However, you can customize these groupings. For example, if you have some fuel tanks that are dedicated to just hover engines or vertical boosters, then you may want to see that in it's own grouping.
+
+For this, you'll only need to rename the tanks you want to specifically group together. To rename, you'll first need to enter Build Mode `(B)`, and right-click to Rename. Most fuel tanks have a default that looks like:
+`Space Fuel Tank s [52]`
+
+The " s " stands for small, and is needed by the HUD in the current version. But here's an example of what we could rename to:
+`Space Tank s (vboost) [52]`
+
+By adding parethesis and a category, all fuel tanks with a matching parenthesis will be grouped, and you can create as many groupings as you like.
+
 
 
 <!-- CONTACT -->
@@ -219,4 +232,4 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/codeinfused/Albatross-HUD-Community/blob/master/LICENSE.txt
 [twitch-shield]: https://img.shields.io/badge/twitch-live-red?logo=twitch&style=social
 [twitch-url]: https://twitch.tv/codeinfused
-[product-screenshot]: images/screenshot1.png
+[product-screenshot]: images/screenshot.png
