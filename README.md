@@ -177,7 +177,7 @@ _While I do love Dual Universe and its community, I also have very little free t
 
 Discord: [Albatross HUD on DU-OSI](https://discord.gg/EThSxMGXBg)
 
-Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused)
+Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused) _I go online at pretty random times, so if you'd like to catch my streams, just go here and hit Follow_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
