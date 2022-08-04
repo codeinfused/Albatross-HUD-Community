@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/codeinfused/Albatross-HUD-Community">
-    <img src="images/albatross-logo-wide.png" alt="Logo" width="40%">
+    <img src="images/albatross-logo-wide.png" alt="Logo" style="max-width: 80%; width:600px; height:90px; object-fit:cover;">
   </a>
 
   <h3 align="center">Albatross HUD Community Edition</h3>
