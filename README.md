@@ -110,7 +110,7 @@ _This HUD is delivered by "autoconf", a feature supported by Dual Universe for c
 
 Download the autoconf file from this repo, [ais_albatross_hud][download-url]
 
-Then move the file into the game's autoconf folder:
+Then move the file into the game's autoconf custom folder:
 
 `C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom\`
   
