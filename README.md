@@ -225,7 +225,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/blob/master/ais_albatross_hud_2_0_5.conf
+[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/raw/main/ais_albatross_hud_2_0_5.conf
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Albatross-HUD-Community.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Albatross-HUD-Community/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Albatross-HUD-Community.svg?style=plastic
