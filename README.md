@@ -95,7 +95,7 @@ _What This HUD Isn't:_
 * Not pvp; while you can link weapons, the HUD does not support them natively
 
 _A Warning For L Core Haulers_ 
-For veteran players with huge haulers, this HUD **has not** been extensively tested yet against L-core haulers with hundreds of flight elements for potential cpu limit messages. Use at your own risk :) If you do hit an issue, let me know on Discord and how many elements onboard.
+* For veteran players with huge haulers, this HUD **has not** been extensively tested yet against L-core haulers with hundreds of flight elements for potential cpu limit messages. Use at your own risk :) If you do hit an issue, let me know on Discord and how many elements onboard.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Download the autoconf file from this repo, [ais_albatross_hud][download-url]
 
 Then move the file into the game's autoconf folder:
 
-`C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom`
+`C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom\`
   
 ### Linking Elements
 
