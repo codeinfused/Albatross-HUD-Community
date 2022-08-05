@@ -94,6 +94,9 @@ _What This HUD Isn't:_
 * Not advanced; this hud is designed with new players in mind to help support DU
 * Not pvp; while you can link weapons, the HUD does not support them natively
 
+_A Warning For L Core Haulers_ 
+For veteran players with huge haulers, this HUD **has not** been extensively tested yet against L-core haulers with hundreds of flight elements for potential cpu limit messages. Use at your own risk :) If you do hit an issue, let me know on Discord and how many elements onboard.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -192,7 +195,7 @@ _While I do love Dual Universe and its community, I also have very little free t
 
 Discord: [Albatross HUD on DU-OSI](https://discord.gg/EThSxMGXBg)
 
-Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused) 
+Twitch: [Watch CodeInfused on Twitch](https://twitch.tv/codeinfused)<br/>
 _I go online at pretty random times, so if you'd like to catch my streams, just go here and hit Follow_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
