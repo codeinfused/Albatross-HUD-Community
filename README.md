@@ -140,6 +140,9 @@ _If you add new links (like radars), you will need to re-activate the HUD again 
 
 Albatross HUD mostly follows the same default key bindings. However, I still recommend taking some time and looking at the button controls of the HUD before you fly. For example, holding `ALT` with `CTRL` (brakes) will lock the brakes, so that you can release both keys and still have the brakes active. Pressing `G` will either raise you to hover height, or lower you back down to the ground.
 
+`A:2` means Alt+2, and<br/>
+`AS:2` means Alt+Shift+2
+
 ### Changing Default Settings
 
 This HUD has several settings you can modify. Some are customizations like the HUD color, opacity, scale, and FPS rate. Others are key flight mechanics such as the Talent upgrade levels your ship has. If you're not familiar with talents yet, Then you can assume 0 for these (the default).
