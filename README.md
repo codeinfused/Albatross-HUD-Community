@@ -94,9 +94,6 @@ _What This HUD Isn't:_
 * Not advanced; this hud is designed with new players in mind to help support DU
 * Not pvp; while you can link weapons, the HUD does not support them natively
 
-_A Warning For L Core Haulers_ 
-* For veteran players with huge haulers, this HUD **has not** been extensively tested yet against L-core haulers with hundreds of flight elements for potential cpu limit messages. Use at your own risk :) If you do hit an issue, let me know on Discord and how many elements onboard.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -108,12 +105,14 @@ _This HUD is delivered by "autoconf", a feature supported by Dual Universe for c
 
 ### File Install
 
-Download the autoconf file from this repo, (right-click this link and "Save link as") [ais_albatross_hud][download-url]
+Download the zipped autoconf file from this repo, (right-click this link and "Save link as") [ais_albatross_hud][download-url]
 
-Then move the file into the game's autoconf custom folder:
+Unzip this, and move the `.conf` file into the game's autoconf custom folder below. The "ProgramData" folder may be hidden, but if you copy this path and paste it into a File Explorer window, that will still open the folder.
 
 `C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom\`
-  
+
+After extracting the file, make sure the "ais_albatross_hud_#_#_#" conf file is in the `custom` folder directly, and not inside a subfolder! Next you'll just need to activate it in-game.
+
 ### Linking Elements
 
 For the most part, you won't need link anything! Almost all needs become linked automatically, with the exception of optional radars. You can link multiple radars to your seat before activating the HUD. If you use "Rename Element" on each radar, the HUD will bring in their custom names.
@@ -228,7 +227,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/raw/main/ais_albatross_hud_2_0_5.conf
+[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/raw/main/ais_albatross_hud_2_1_0.zip
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Albatross-HUD-Community.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Albatross-HUD-Community/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Albatross-HUD-Community.svg?style=plastic
