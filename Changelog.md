@@ -1,14 +1,11 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 <!-- ABOUT ALBATROSS HUD -->
 ## Albatross HUD Change History
+
+### 2.1.1
+* Fixed AGG reading previous target instead of resetting target to current Base
+* Removed the voice command option from showing up erroneously
 
 ### 2.1.0
 * Added new HUD widget to support Antigravity display and control
