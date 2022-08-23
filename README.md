@@ -123,8 +123,8 @@ _If you add new links (like radars), you will need to re-activate the HUD again 
 
 1. Make sure you've installed the file from above ^
 2. Right-click on your hoverseat, command seat, or whatever flight unit
-3. Select "Advanced"
-4. Select "Run Custom Autoconfigure"
+3. Select "Advanced", then "Update custom autoconf list"
+4. Select "Advanced", "Run custom autoconf"
 5. Select Albatross HUD from the list
 6. That's it! Hop in the seat and enjoy
 
