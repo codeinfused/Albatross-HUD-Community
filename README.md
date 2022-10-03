@@ -148,8 +148,8 @@ Albatross HUD mostly follows the same default key bindings. However, I still rec
 
 Other Commands:
 
-1. ALT+SHIFT+8 :: Enable/disable the burn speed and re-entry limiter
-2. ALT+SHIFT+9 :: Hide/show the build helper bar
+1. `AS:8` :: Enable/disable the burn speed and re-entry limiter
+2. `AS:9` :: Hide/show the build helper bar
 
 ### Changing Default Settings
 
