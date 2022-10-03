@@ -109,6 +109,10 @@ Download the zipped autoconf file from this repo, (right-click this link and "Sa
 
 Unzip this, and move the `.conf` file into the game's autoconf custom folder below. The "ProgramData" folder may be hidden, but if you copy this path and paste it into a File Explorer window, that will still open the folder.
 
+For Steam's game client:
+`C:\Program Files (x86)\Steam\steamapps\common\Dual Universe\data\lua\autoconf\custom`
+
+For NQ's game client:
 `C:\ProgramData\Dual Universe\Game\data\lua\autoconf\custom\`
 
 After extracting the file, make sure the "ais_albatross_hud_#_#_#" conf file is in the `custom` folder directly, and not inside a subfolder! Next you'll just need to activate it in-game.
@@ -141,6 +145,11 @@ Albatross HUD mostly follows the same default key bindings. However, I still rec
 
 `A:2` means Alt+2, and<br/>
 `AS:2` means Alt+Shift+2
+
+Other Commands:
+
+1. ALT+SHIFT+8 :: Enable/disable the burn speed and re-entry limiter
+2. ALT+SHIFT+9 :: Hide/show the build helper bar
 
 ### Changing Default Settings
 
