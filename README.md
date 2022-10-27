@@ -144,6 +144,8 @@ If you want to add the voice sounds you've seen from my twitch stream, the zip f
 Depending on your Windows version, the path may look like:
 `C:\Users\YOURUSER\OneDrive\Documents\NQ\DualUniverse\audio`
 
+Make sure when you unzip it that the folder with the sound files is inside `audio` parent folder. You can rename the folder, if you change the Lua Parameter for the folder name.
+
 
 <!-- USAGE -->
 ## Usage
