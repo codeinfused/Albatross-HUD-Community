@@ -56,6 +56,7 @@
         <li><a href="#file-install">File Install</a></li>
         <li><a href="#linking-elements">Linking Elements</a></li>
         <li><a href="#activating-the-hud">Activating the HUD</a></li>
+        <li><a href="#using-the-soundpack">Using the Sound Pack</a></li>
       </ul>
     </li>
     <li>
@@ -134,6 +135,14 @@ _If you add new links (like radars), you will need to re-activate the HUD again 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Using The Soundpack
+
+If you want to add the voice sounds you've seen from my twitch stream, the zip file here contains a folder called "albatross_hud" with the files inside. This folder has to go into a specific location for Dual Universe to read it, *not in the autoconf folder*. Before unzipping, move the zip file to:
+
+`This PC` > `Documents` > `NQ` > `DualUniverse` > `audio`
+
+Depending on your Windows version, the path may look like:
+`C:\Users\YOURUSER\OneDrive\Documents\NQ\DualUniverse\audio`
 
 
 <!-- USAGE -->
