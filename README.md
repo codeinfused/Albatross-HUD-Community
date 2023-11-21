@@ -151,6 +151,8 @@ Other Hotkeys:
 1. `AS:8` :: Enable/disable the burn speed and re-entry limiter
 2. `AS:9` :: Hide/show the build helper bar
 3. `S:L` :: Toggle headlights
+4. `MMB` :: Reduce throttle to zero
+5. `S:MMB` :: Full throttle to 100%
 
 #### Lua Tab Commands:
 In the chat window, open the Lua tab and type `help` to get a list of commands you can run here, for example setting a specific AGG singularity, or setting a specific altitude to fly at. Some helpful examples:
@@ -247,7 +249,7 @@ Distributed under the GNU GPLv3 license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/raw/main/ais_albatross_hud_2_2_0.zip
+[download-url]: https://github.com/codeinfused/Albatross-HUD-Community/raw/main/ais_albatross_hud_2_4_3.zip
 [contributors-shield]: https://img.shields.io/github/contributors/codeinfused/Albatross-HUD-Community.svg?style=plastic
 [contributors-url]: https://github.com/codeinfused/Albatross-HUD-Community/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/codeinfused/Albatross-HUD-Community.svg?style=plastic

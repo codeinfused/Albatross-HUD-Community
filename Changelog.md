@@ -3,6 +3,26 @@
 <!-- ABOUT ALBATROSS HUD -->
 ## Albatross HUD Change History
 
+### 2.4.3
+* Fixed a display bug causing the not-trustworthy space autopilot to not update.
+
+### 2.4.1
+* Introduced HOTAS stick and controller support using Lua setting bindings. See CodeInfused youtube video for how to set up.
+
+### 2.3.1
+
+### 2.2.2
+* Added parameter hudTextColor for forcing HUD text color. Leave blank quotes for auto-color.
+* Autopilot things.
+* FIXED: Lua tab "time" command now works correctly.
+
+### 2.2.1
+* Added ALT+MMB for instant full-throttle. MMB cuts throttle to zero.
+* Added atmospheric threshold on re-entry burn limiter to only cut throttle in 'deep space'.
+* Reduced FPS lag issues over longer flights.
+* Added my voice sound files to the repo with instructions on how to install.
+* FIX: Align CLI tool when enabled in atmo used to set an invalid target vector.
+
 ### 2.2.0
 * FIX: Language support on radar names for FR and DE.
 * FIX: Landing mode and hover controls should work as expected again.
