@@ -41,7 +41,7 @@
     ·
     <a href="https://github.com/codeinfused/Albatross-HUD-Community/issues">Report Bug</a>
     .
-    [Download AutoConf][download-url]
+    <a href="#file-install">Download Link</a>
   </p>
 </div>
 
