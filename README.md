@@ -40,6 +40,8 @@
     <a href="https://twitch.tv/codeinfused">Watch a Demo</a>
     ·
     <a href="https://github.com/codeinfused/Albatross-HUD-Community/issues">Report Bug</a>
+    .
+    [Download AutoConf][download-url]
   </p>
 </div>
 
