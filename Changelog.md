@@ -3,6 +3,10 @@
 <!-- ABOUT ALBATROSS HUD -->
 ## Albatross HUD Change History
 
+### 2.4.4
+* Fixed a bug that wasn't displaying the HOTAS toggler
+* Added configuration params to hide the HOTAS and/or Autopilot buttons
+
 ### 2.4.3
 * Fixed a display bug causing the not-trustworthy space autopilot to not update.
 
